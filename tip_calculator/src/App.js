@@ -86,7 +86,7 @@ function InputField({ emoji, children }) {
     <section>
       <p className="label">{children}</p>
       <form className="input-box">
-        <img src={`/tip/${emoji}`} alt={emoji} />
+        <img src={`/images/${emoji}`} alt={emoji} />
         <input type="text" placeholder="0" />
       </form>
     </section>
