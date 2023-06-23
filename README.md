@@ -1,4 +1,4 @@
-![Splitter](./public/images/Live_desktop_view.png)
+![Splitter](../public/images/Live_desktop_view.png)
 
 ## FEM Challenge
 
